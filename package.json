@@ -1,0 +1,14 @@
+{
+  "name": "Solana-Web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CodeKaito/Solana-Web3.git",
+  "author": "Jerome Decinco <jerome.decinco@maxwell.mi.it>",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.7",
+    "@types/node": "^20.12.7",
+    "bs58": "^5.0.0",
+    "typescript": "^5.4.5"
+  }
+}
